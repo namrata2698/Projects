@@ -1,0 +1,1 @@
+"# Projects"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/namrata2698/Projects.gitgit push -u origin master                
